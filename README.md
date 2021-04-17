@@ -7,7 +7,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 Design the following database schema containing three tables:
 
-![Database Schema](Assets/schema.png)
+![Database Schema](assets/schema.png)
 * **department**:
 
   * **id** - INT PRIMARY KEY
@@ -34,7 +34,7 @@ As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
 ```
-![Employee Tracker](Assets/employee-tracker.gif)
+![Employee Tracker](assets/employee-tracker.gif)
 ## Installation
 ```
 npm i - to install all file in order for npm to work
