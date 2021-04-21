@@ -45,5 +45,5 @@ npm console.table - to format tables
 ```
 
 ## Deployed video 
-![video](https://drive.google.com/file/d/1MbaMxEERktQaN4wbaAV5GqbNOHrEE9vz/view)
+https://drive.google.com/file/d/1MbaMxEERktQaN4wbaAV5GqbNOHrEE9vz/view
 
